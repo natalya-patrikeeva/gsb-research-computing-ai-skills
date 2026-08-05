@@ -39,4 +39,3 @@ node_modules/
 bot/.dev.vars
 bot/.wrangler/
 bot/dist/
-.env
